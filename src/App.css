@@ -68,3 +68,8 @@ button {
 .text-sm {
   font-size: 14px;
 }
+
+.app {
+  display: flex;
+  min-height: 100vh;
+}
