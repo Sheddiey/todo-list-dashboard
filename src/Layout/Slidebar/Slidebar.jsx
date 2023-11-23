@@ -11,7 +11,7 @@ const Slidebar = () => {
         <div className="info-img img-fit-cover">
           <img src={person_one} alt="" />
         </div>
-        <span className="info-name">Sheddiey-Shedrack</span>
+        <span className="info-name">Sheddiey</span>
       </div>
       <nav className="navigation">
         <ul className="nav-list">
