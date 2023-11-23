@@ -3,7 +3,7 @@ import './budget.css'
 
 const Budget = () => {
   return (
-    <div>
+    <div className=''>
       
     </div>
   )
