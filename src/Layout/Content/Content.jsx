@@ -1,10 +1,13 @@
 import React from 'react'
 import './Content.css'
+import ContentTop from '../../Components/ContentTop/ContentTop'
+import ContentMain from '../../Components/ContentMain/ContentMain'
 
 const Content = () => {
   return (
-    <div>
-      
+    <div className='main-content'>
+      <ContentTop />
+      <ContentMain />
     </div>
   )
 }

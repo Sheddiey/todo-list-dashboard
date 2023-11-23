@@ -23,7 +23,6 @@
     color: var(--clr-white );
     text-transform: uppercase;
     font-weight: 500;
-    display: none;
 }
 .navigation {
     margin-top: 28px;
@@ -97,7 +96,7 @@
     .slidebar-change {
         margin-left: -72px;
     }
-    .imfo-name {
+    .info-name {
         display: none;
     }
     .nav-item{

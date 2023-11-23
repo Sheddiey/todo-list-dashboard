@@ -4,7 +4,7 @@ import Slidebar from './Layout/Slidebar/Slidebar';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App flex">
       <Slidebar />
       <Content />
     </div>
