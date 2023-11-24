@@ -26,14 +26,14 @@ export const transactions = [
         id: 11, 
         name: "Sarah Parker",
         icon: person_four,
-        date: "23/12/04",
+        date: "23/12/23",
         amount: 22000
     },
     {
         id: 12, 
         name: "Krisitine Carter",
         icon: person_three,
-        date: "23/07/21",
+        date: "23/07/24",
         amount: 20000
     },
     {
@@ -115,19 +115,19 @@ export const subscriptions = [
     {
         id: 24,
         title: "LinkedIn",
-        due_date: "23/12/04",
+        due_date: "23/12/26",
         amount: 20000
     },
     {
         id: 25,
         title: "Netflix",
-        due_date: "23/12/10",
+        due_date: "23/12/24",
         amount: 5000
     },
     {
         id: 26,
         title: "DSTV",
-        due_date: "23/12/22",
+        due_date: "23/12/27",
         amount: 2000
     }
 ];
@@ -138,7 +138,7 @@ export const savings = [
         icon: person_one,
         saving_amount: 250000,
         title: "Pay kid bro’s fees",
-        date_taken: "23/12/22",
+        date_taken: "23/12/24",
         amount_left: 40000
     }
 ]

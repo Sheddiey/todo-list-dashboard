@@ -103,3 +103,7 @@ button {
     font-size: 14px !important;
   }
 }
+
+.icon-plus{
+  color: var(--clr-white);
+}

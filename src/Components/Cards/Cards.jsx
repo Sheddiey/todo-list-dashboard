@@ -9,7 +9,7 @@ const Cards = () => {
       <div className="grid-c-title">
         <h3 className="grid-c-title-text">Cards</h3>
         <button className="grid-c-title-icon">
-          <FontAwesomeIcon className="icon" icon={faPlus} />
+          <FontAwesomeIcon className="icon icon-plus" icon={faPlus} />
         </button>
       </div>
       <div className="grid-c1-content">

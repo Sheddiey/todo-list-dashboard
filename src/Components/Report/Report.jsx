@@ -10,7 +10,7 @@ const Report = () => {
       <div className="grid-c-title">
         <h3 className="grid-c-title-text">Report</h3>
         <button className="grid-c-title-icon">
-          <FontAwesomeIcon icon={faPlus} />
+          <FontAwesomeIcon className="icon-plus" icon={faPlus} />
         </button>
       </div>
       <div className="grid-c3-content">
