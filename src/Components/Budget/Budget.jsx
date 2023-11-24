@@ -18,7 +18,7 @@ const Budget = () => {
         <h2 className="lg-value">Cash</h2>
         <span className="lg-value">$ 100, 000</span>
       </div>
-      <div className="grid-ce-content bg-jet">
+      <div className="grid-c4-content bg-jet">
         <div className="grid-items">
           {budgetLi.map((budget) => (
             <div className="grid-item" key={budget.id}>
